@@ -1,0 +1,12 @@
+/* custom CSS */
+.close-btn {
+    cursor: pointer;
+    color: snow;
+    transition: 0.3s ease-in-out;
+    margin-right: 10px;
+}
+
+.close-btn:hover {
+    color: rgb(255, 109, 109);
+    transition: 0.3s ease-in-out;
+}
